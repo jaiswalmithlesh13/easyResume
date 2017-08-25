@@ -52,7 +52,7 @@ class LoginView extends Component {
                 <View style={{ flex: .5, height: this.state.layout.height / 2 + 100, flexDirection: 'column', justifyContent: 'flex-end' }} >
                     <View style={{ flex: .2, flexDirection: 'column', alignItems: 'center', justifyContent: 'flex-end' }} >
                         <Animated.View style={{ flex: 1, marginTop: marginTop }}>
-                            <Image style={{ height: 45, width: 200 }} source={require('../easyResume/Assets/Images/Morningstar_Logo.png')} >
+                            <Image style={{ height: 45, width: 200 }} source={require('../easyResume/Assets/Images/resume-icon.png')} >
                             </Image>
                         </Animated.View>
                     </View>

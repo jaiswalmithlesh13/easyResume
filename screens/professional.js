@@ -12,7 +12,7 @@ class ProfessionalView extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            organisation: 'Morningstar',
+            organisation: 'ABC',
             designation: 'iOS Developer',
             employmentStatus: 'Curently Employed',
             fromDate: '2007',
